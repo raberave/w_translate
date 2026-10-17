@@ -1,0 +1,11 @@
+# 設定ファイル（APIキー等が含まれるため除外）
+translation_settings.json
+
+# PyInstallerの生成物
+build/
+dist/
+*.spec
+
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
